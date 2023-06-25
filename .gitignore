@@ -1,0 +1,8 @@
+# Fichiers
+config.codekit3
+.DS_Store
+
+# Dossiers
+/scss/
+
+

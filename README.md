@@ -1,5 +1,10 @@
 <p align="center">Wizz MSN</p>
 
+<p align="center">
+<a href="https://github.com/Vanille-B/wizz-msn/commits/master">
+<img src="https://img.shields.io/github/v/release/Vanille-B/wizz-msn?style=for-the-badge&logo=appveyor"></a>
+
+
 # [FR]
 Ce projet est une démonstration l'effet Wizz. Effet visuel du bouton est inspiré de l'effet "Wizz" utilisé sur MSN Messenger.
 

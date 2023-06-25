@@ -1,6 +1,7 @@
 # Fichiers
 config.codekit3
 .DS_Store
+_example.scss
 
 # Dossiers
 /scss/

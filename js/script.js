@@ -1,9 +1,18 @@
-let wizzButton = document.querySelector('.wizz-button');
-let body = document.querySelector('body');
+const wizzButton = document.querySelector('.wizz-button');
+const body = document.querySelector('body');
+const wizzSound = document.getElementById('wizz-sound');
+
+function preloadSound() {
+    wizzSound.load();
+    wizzSound.play();
+}
 
 wizzButton.addEventListener('click', () => {
     body.classList.toggle('shake');
+    preloadSound();
+
     setTimeout(() => {
         body.classList.toggle('shake');
-    }, 800);
+        // preloadSound();
+    }, 500);
 });

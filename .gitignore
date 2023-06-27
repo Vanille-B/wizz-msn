@@ -2,8 +2,11 @@
 config.codekit3
 .DS_Store
 _example.scss
+script.min.js
 
 # Dossiers
 /scss/
+/--BCKP/
+/--sources/
 
 

@@ -7,7 +7,7 @@ body {
   overflow: hidden;
   margin: 20px;
   background: #f9fafc;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 3px 6px rgba(131, 161, 214, 0.5);
   background: linear-gradient(to bottom, #ffffff, #d4e2f8);
 }
 body::after {
@@ -36,38 +36,18 @@ body.shake {
   justify-content: center;
   align-items: center;
   position: relative;
-}
-.button::before {
-  content: "";
-  position: absolute;
-  top: 1px;
-  left: 1px;
-  width: 100%;
-  height: 20%;
-  background: linear-gradient(to bottom, #619ef9, #cad7e9, #c4d8f5, transparent);
-  opacity: 0.4;
-  border-top-left-radius: 22px;
-  border-top-right-radius: 22px;
-  z-index: 1;
-}
-.button::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  border: 1px solid #6994d5;
-  border-radius: 25px;
-  z-index: 2;
+  background-image: url("/assets/img/msn-background.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: bottom right;
 }
 
 .wizz-button {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(to bottom, #dfebfb, #8bb8fa);
-  border: 1px solid #87a8d9;
+  background: linear-gradient(to bottom, #dfebfb, #b2c4e9);
+  border: 1px solid #98b8ef;
   color: rgb(55, 96, 179);
   font-weight: 600;
   font-family: Arial;
@@ -77,7 +57,7 @@ body.shake {
   overflow: hidden;
   transition: background-color 0.3s;
   cursor: pointer;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 3px 6px rgba(131, 161, 214, 0.3);
   border-radius: 25px;
   z-index: 3;
 }
@@ -172,8 +152,8 @@ body.shake {
 }
 @media screen and (min-width: 895px) {
   body::after {
-    width: 300px;
-    height: 300px;
+    width: 320px;
+    height: 320px;
     bottom: -25px;
     transition: all 0.3s ease;
   }

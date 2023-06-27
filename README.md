@@ -1,9 +1,8 @@
 
 <p align="center">
 
-<p align="center"><img src=https://raw.githubusercontent.com/Vanille-B/wizz-msn/master/assets/github-msn-background-img></p>
+<p align="center"><img src=https://raw.githubusercontent.com/Vanille-B/wizz-msn/master/assets/img/github-msn-background-img.png></p>
 
-<a href="https://github.com/Vanille-B/wizz-msn/commits">
 <img src="https://img.shields.io/github/v/release/Vanille-B/wizz-msn?style=for-the-badge&logo=appveyor"></a>
 
 

@@ -11,7 +11,7 @@ body {
   background: linear-gradient(to bottom, #ffffff, #d4e2f8);
 }
 body::after {
-  background-image: url("/assets/img/msn-wizz-logo.png");
+  background-image: url("assets/img/msn-wizz-logo.png");
   content: "";
   position: absolute;
   background-size: cover;
@@ -36,7 +36,7 @@ body.shake {
   justify-content: center;
   align-items: center;
   position: relative;
-  background-image: url("/assets/img/msn-background.png");
+  background-image: url("assets/img/msn-background.png");
   background-size: contain;
   background-repeat: no-repeat;
   background-position: bottom right;

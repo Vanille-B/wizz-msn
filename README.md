@@ -1,50 +1,54 @@
-
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Vanille-B/wizz-msn/master/assets/img/github-msn-background-img.png" alt="Wizz MSN Project" align="center">
+</p>
 
-<p align="center"><img src=https://raw.githubusercontent.com/Vanille-B/wizz-msn/master/assets/img/github-msn-background-img.png></p>
+# Wizz MSN
 
-<img src="https://img.shields.io/github/v/release/Vanille-B/wizz-msn?style=for-the-badge&logo=appveyor"></a>
+## 🇫🇷 Introduction
+Ce projet est une démonstration de l'effet Wizz. L'effet visuel du bouton est inspiré de l'effet "Wizz" utilisé sur MSN Messenger, la célèbre plateforme de messagerie instantanée.
 
+L'objectif de ce projet est de recréer l'expérience du bouton "Wizz" de MSN Messenger, en fournissant une rétroaction visuelle dynamique lorsqu'il est cliqué. Lorsque vous cliquez sur le bouton, le contenu est partagé et une animation "Wizz" est appliquée, donnant l'impression que l'écran vibre brièvement.
 
+> Demo : https://msn-wizz.netlify.app
 
-# wizz msn
+### 🇫🇷 Fonctionnalités
 
+- En cliquant sur le bouton, une animation "Wizz" est appliquée.
+- L'animation du bouton donne une impression de vibration de l'écran, rappelant l'effet original de MSN Messenger.
 
-## 🇫🇷
-Ce projet est une démonstration l'effet Wizz. Effet visuel du bouton est inspiré de l'effet "Wizz" utilisé sur MSN Messenger.
+### 🇫🇷 Instructions d'utilisation
 
-### Fonctionnalités
-
-- En cliquant sur le bouton, le contenu est partagé et une animation "Wizz" est appliquée au bouton pour donner une rétroaction visuelle à l'utilisateur.
-
-### Instructions d'utilisation
-
-1. Clonez ce dépôt sur votre machine locale.
+1. Clonez ce dépôt sur votre machine locale en utilisant la commande suivante :
+git clone https://github.com/Vanille-B/wizz-msn.git
 2. Ouvrez le fichier `index.html` dans votre navigateur.
 3. Testez le bouton de partage en cliquant dessus et observez l'effet "Wizz" ainsi que le comportement de partage.
-4. Explorez le code JavaScript dans le fichier `script.js` pour comprendre la logique du bouton.
+4. Explorez le code JavaScript dans le fichier `script.js` pour comprendre la logique du bouton et la manière dont l'effet "Wizz" est implémenté.
 
-### Contributions
+### 🇫🇷 Contributions
 
-Les contributions à ce projet sont les bienvenues. Si vous souhaitez améliorer ou ajouter des fonctionnalités, veuillez créer une pull request. Merci d'avance pour votre contribution !
+Les contributions à ce projet sont les bienvenues. Si vous souhaitez améliorer, redesigner ou ajouter des fonctionnalités, veuillez créer une pull request. Merci d'avance pour votre contribution !
 
+## 🇺🇸 Introduction
 
-## 🇺🇸
+This project is a Wizz effect demonstration. The visual effect of the button is inspired by the "Wizz" effect used on MSN Messenger, the popular instant messaging platform.
 
-This project is a Wizz effect demonstration. The visual effect of the button is inspired by the "Wizz" effect used on MSN Messenger.
+The goal of this project is to recreate the experience of the "Wizz" button from MSN Messenger by providing dynamic visual feedback when clicked. When you click the button, the content is shared, and a "Wizz" animation is applied, giving the impression of briefly vibrating the screen.
 
-### Features
+> Demo : https://msn-wizz.netlify.app
 
-- When the button is clicked, the content is shared, and a "Wizz" animation is applied to the button to provide visual feedback to the user. The animation gives the impression of vibrating the screen.
+### 🇺🇸 Features
 
-### Usage Instructions
+- When the button is clicked, a "Wizz" animation is applied to provide visual feedback to the user.
+- The button animation gives the impression of vibrating the screen, reminiscent of the original effect in MSN Messenger.
 
-1. Clone this repository to your local machine.
+### 🇺🇸 Usage Instructions
+
+1. Clone this repository to your local machine using the following command:
+git clone https://github.com/Vanille-B/wizz-msn.git
 2. Open the `index.html` file in your browser.
 3. Test the share button by clicking on it and observe the "Wizz" effect and the sharing behavior.
-4. Explore the JavaScript code in the `script.js` file to understand the logic of the button.
+4. Explore the JavaScript code in the `script.js` file to understand the logic of the button and how the "Wizz" effect is implemented.
 
+### 🇺🇸 Contributions
 
-### Contributions
-
-Contributions to this project are welcome. If you wish to enhance or add new features, please create a pull request. Thank you in advance for your contribution!
+Contributions to this project are welcome. If you wish to improve, redesign, or add features, please create a pull request. Thank you in advance for your contribution !

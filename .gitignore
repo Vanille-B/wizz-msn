@@ -3,6 +3,7 @@ config.codekit3
 .DS_Store
 _example.scss
 script.min.js
+README.html
 
 # Dossiers
 /scss/
@@ -10,3 +11,13 @@ script.min.js
 /--sources/
 
 
+
+assets/--sources/msn-background-img-readme.psd
+
+assets/--sources/msn-background-vector-01.png
+
+assets/--sources/msn-background-vector.ai
+
+assets/--sources/msn-background.png
+
+assets/img/--msn-background.png
